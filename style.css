@@ -109,7 +109,7 @@ button {
 .middle_container_2 {
   background-image: url(./photos/Rectangle.png);
   background-repeat: no-repeat;
-  background-position: 0 10px;
+  background-position: center;
   display: flex;
   padding-left: 40px;
   padding-top: 160px;
